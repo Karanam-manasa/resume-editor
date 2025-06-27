@@ -22,8 +22,8 @@ A web-based editor that lets users
 - `POST /save-resume`: Saves the resume JSON (stored in memory or file)
 
 ## How to Run:
-Download the repo git clone https://github.com/Karanam-manasa/resume-editor
-Change the directory cd Resume Editer
-Install the dependency npm install
-Start a development server npm run dev
-Open your browser and visit http://localhost:3000
+- Download the repo git clone https://github.com/Karanam-manasa/resume-editor
+- Change the directory cd Resume Editer
+- Install the dependency npm install
+- Start a development server npm run dev
+- Open your browser and visit http://localhost:3000
